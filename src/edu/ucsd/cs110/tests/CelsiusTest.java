@@ -52,6 +52,6 @@ public class CelsiusTest extends TestCase{
         convert = temp.toFahrenheit();
 
         // Should be 212
-        assertEquals(213, convert.getValue(), delta);
+        assertEquals(212, convert.getValue(), delta);
     }
 }
