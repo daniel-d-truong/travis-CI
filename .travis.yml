@@ -5,3 +5,7 @@ jdk:
   - openjdk10
   - openjdk11
 #install: ant
+
+before_install:
+  - sudo apt-get install -y ant
+  - sudo apt-get install -y ant-optional
