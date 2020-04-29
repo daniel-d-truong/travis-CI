@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99a0611-1024-405e-a3c8-8082f19615ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588138430435</updated>
       <workItem from="1588138433234" duration="2017000" />
-      <workItem from="1588140753890" duration="4983000" />
+      <workItem from="1588140753890" duration="5024000" />
     </task>
     <servers />
   </component>
